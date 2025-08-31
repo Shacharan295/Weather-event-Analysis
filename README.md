@@ -1,2 +1,2 @@
 # Weather-event-Analysis
-AICTE proje
+AICTE PPROJECT
